@@ -7,7 +7,6 @@ body {
   z-index: 1031;
   top: 50%;
   right: 50%;
-  color: #ffffff !important;
 }
 .wrapper {
   height: 100vh;
@@ -47,7 +46,6 @@ body {
 }
 .temperature {
   font-size: 55px;
-  margin-top: -30px;
   margin-bottom: 30px;
 }
 .capitalize {
