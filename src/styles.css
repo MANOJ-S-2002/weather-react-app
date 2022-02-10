@@ -37,7 +37,7 @@ body {
   text-align: center;
 }
 .weather-icon {
-  font-size: 150px;
+  font-size: 10px;
 }
 .city,
 .date {
